@@ -1,4 +1,4 @@
-I’ll need to search for the most current information on integrating MCP servers with Claude AI using Docker Desktop, as this involves specific implementation details that may have been updated recently.​​​​​​​​​​​​​​​​
+
 
 # Integrating MCP Servers with Claude Desktop Using Docker Desktop
 
